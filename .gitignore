@@ -1,0 +1,4 @@
+*.o
+*.aedat
+aedatinfo/aedatinfo
+aedatslice/aedatslice
