@@ -1,2 +1,2 @@
-aedatuils - utility applications to work with aedat files
-=========================================================
+aedatuils - utility applications for aedat files
+================================================
